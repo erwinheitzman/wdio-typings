@@ -1,0 +1,22 @@
+{
+  "name": "wdio-test-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.9.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.9.0",
+    "@wdio/mocha-framework": "^7.9.0",
+    "@wdio/spec-reporter": "^7.9.0",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
